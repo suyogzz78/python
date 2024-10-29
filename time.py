@@ -18,7 +18,7 @@ if 4 <= current_hour < 12:
     print("Good Morning!")
 elif 12 <= current_hour < 18:
     print("Good Afternoon!")
-elif 18 <= current_hour < 22:
+elif 18 <= current_hour < 24:
     print("Good Evening!")
 else:
     print("Good Night!")
